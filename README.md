@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shreyaaa22ww
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me UMM
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on Python 
+- 📫 How to reach me- Don't 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: me
   
